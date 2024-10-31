@@ -39,8 +39,8 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#03001c" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -309,7 +309,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">daviddarnes/bluesky-post</span>
+                                        <span class="repo">m0n0ph1/Process-Hollowing</span>
                                     </div>
                                 </div>
                             </section>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">freetonik/textpod</span>
+                                        <span class="repo">zsh-users/zaw</span>
                                     </div>
                                 </div>
                             </section>
@@ -335,7 +335,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">asterinas/asterinas</span>
+                                        <span class="repo">csmir/Commands.NET</span>
                                     </div>
                                 </div>
                             </section>
@@ -348,7 +348,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">girlbossceo/conduwuit</span>
+                                        <span class="repo">Perryvw/yarc</span>
                                     </div>
                                 </div>
                             </section>
@@ -361,7 +361,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">TimelyDataflow/abomonation</span>
+                                        <span class="repo">waydabber/BetterDisplay</span>
                                     </div>
                                 </div>
                             </section>
@@ -371,7 +371,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2024, 14:34:44 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2024, 07:09:38 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
